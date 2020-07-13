@@ -24,11 +24,8 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.12.1
-<<<<<<< HEAD:flutter_ios_app/flutter_app/pubspec.yaml
+  cached_network_image: '^2.0.0'
   image_gallery_saver: ^1.5.0
-=======
-  image_gallery_saver: ^1.2.2
->>>>>>> 30de0644f65083ffaab33abbae18781a15414ad0:kstudios_wallpaperhub/pubspec.yaml
   permission_handler: ^4.2.0+hotfix.3
   random_string: ^2.0.1
   dio: ^3.0.9
